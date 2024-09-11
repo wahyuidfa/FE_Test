@@ -20,6 +20,7 @@ yarn ad
 ```bash
 API_BASE_URL=http://localhost:8080/api 
 ```
+dont forget to runnin local backend with docker compose
 
 4. Running on the development server:
 
