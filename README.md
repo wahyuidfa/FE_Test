@@ -16,7 +16,12 @@ yarn ad
 
 ```
 
-3. Running on the development server:
+3. Add .env with
+```bash
+API_BASE_URL=http://localhost:8080/api 
+```
+
+4. Running on the development server:
 
 ```bash
 
